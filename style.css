@@ -1,0 +1,58 @@
+body {
+	margin: 0;
+}
+
+.second-left {
+	width: 70%;
+	float: left;
+}
+.second-right {
+	width: 30%;
+	overflow: hidden;
+}
+
+.third-top {
+	height: 200px;
+	background: #B5E61D;
+}
+.third-middle {
+	height: 300px;
+	background: #7092BE;
+}
+.third-last {
+	height: 100px;
+	background: #FFFFFF;
+}
+
+.forth-bottom {
+	height: 200px;
+	background: #A349A4;
+}
+
+
+.fifth-left {
+	height: 300px;
+	background: #ED1C24;
+	width: 50%;
+	float: left;
+}
+.fifth-right {
+	height: 400px;
+	background: #FF7F27;
+	width: 50%;
+	overflow: hidden;
+}
+
+
+.footer-left {
+	height: 100px;
+	width: 20%;
+	background: #FFFFFF;
+	float: left;
+}
+.footer-right {
+	height: 100px;
+	width: 80%;
+	background: #B97A57;
+	overflow: hidden;
+}
